@@ -1,7 +1,11 @@
 package main
 
+import (
+	objectdemo "object"
+	"fmt"
+)
 
-func main()
-{
-	AnObject()
+
+func main() {
+	objectdemo.AnObject()
 }

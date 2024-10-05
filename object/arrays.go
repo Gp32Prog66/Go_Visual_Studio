@@ -1,9 +1,9 @@
-package object_name
+package main
 
 
 import "fmt"
 
-func object_name(){
+func main() {
 	var arr [3] string
 	//[][][][]  Elements
 	//0 1 2 3   Index Values

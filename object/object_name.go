@@ -1,6 +1,7 @@
-package object_name
+package objectdemo
 
-func AnObject() string
-{
-	return "Mug"
+import "fmt"
+
+func AnObject() {
+	fmt.Println("Mug")
 }
